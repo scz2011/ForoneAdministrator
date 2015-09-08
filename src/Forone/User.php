@@ -113,4 +113,5 @@ class User extends Model implements AuthenticatableContract, CanResetPasswordCon
     {
         // TODO: Implement getEmailForPasswordReset() method.
     }
+    
 }
